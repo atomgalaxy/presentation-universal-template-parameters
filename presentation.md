@@ -237,7 +237,7 @@ Proposed: we parse as if _constant-expression_, defer kind check to substitution
 Parsing Disambiguation
 ----------------------
 
-We need to disambiguate when we mean to parse a type or a template.
+When we mean to parse-as-a-type-name or parse-as-a-template-name, we need to disambiguate.
 
 ```cpp
 template<template auto U> int caller3() {

@@ -278,6 +278,17 @@ problem anyway.
 
 
 
+Next Steps
+----------
+
+* implementation. We need to make sure it's implementable.
+* bikeshedding the keyword (see paper)
+* syncing with splicing (reflection)
+* work out formal rules for how partial ordering should "obviously" work
+* wording
+
+
+
 Fin
 ===
 
